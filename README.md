@@ -1,4 +1,4 @@
-# spin-game!made by pratham dada
+# spin-game made by pratham dada
 <html>
 <head>
     <meta charset="utf-8">
